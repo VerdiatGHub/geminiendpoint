@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Gateway",
+  "description": "Public Google LLM inference endpoint powered by Gemini with OpenAI-compatible chat completions, streaming SSE, embeddings, and an interactive developer console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
